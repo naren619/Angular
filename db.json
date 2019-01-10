@@ -3,15 +3,18 @@
   [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Naren",
+      "age": "29"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "Pragya",
+      "age": "3"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "Sreejan",
+      "age": "9"
     }
   ]
 }
